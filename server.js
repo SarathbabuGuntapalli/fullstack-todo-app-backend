@@ -16,7 +16,7 @@ mongoose
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://magnificent-kashata-438f60.netlify.app/",
     credentials: true,
   })
 );
